@@ -1,7 +1,7 @@
 # Blog
 
 ## 技术栈
-Docker + SpringBoot + Mybatis + thymeleaf
+SpringBoot + Mybatis + thymeleaf
 
 ## 更改需要的配置
 修改配置文件中的mysql地址和端口，文章使用markdown，如需使用图片直接上传，需要配置七牛云对象存储
